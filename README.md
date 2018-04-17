@@ -1,7 +1,7 @@
 # Coins (cryptocurrencies) icons of 1,887
 Image size: 16x16, 24x24, 32x32, 48x48, 64x64, 96x96, 128x128
 # Info
-Usage: https://currencyconvert.online/
+Usage: https://currencyconvert.online
 
 Download images: https://www.cryptocompare.com
 
